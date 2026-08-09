@@ -7,7 +7,7 @@
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/rohith-viji/rohith-viji/main/profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
+<img src="https://github.com/vijirohith64/vijirohith64/blob/main/profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
 
 <br/><br/>
 
