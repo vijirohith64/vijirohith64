@@ -7,7 +7,7 @@
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="./profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/rohith-viji/rohith-viji/main/profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
 
 <br/><br/>
 
@@ -16,6 +16,9 @@
 </a>
 <a href="https://www.linkedin.com/in/rohith-viji">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vijirohith64@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </td>
@@ -126,6 +129,9 @@ rohith@dev:~$ _
   </a>
   <a href="https://www.linkedin.com/in/rohith-viji">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vijirohith64@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
