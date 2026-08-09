@@ -7,7 +7,7 @@
 <tr>
 <td width="35%" valign="top" align="center">
 
-<img src="https://github.com/vijirohith64/vijirohith64/blob/main/profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/vijirohith64/vijirohith64/main/profile.png" width="320" alt="Rohith" style="border-radius: 10px;" />
 
 <br/><br/>
 
@@ -111,12 +111,12 @@ rohith@dev:~$ _
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-viji&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-viji&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vijirohith64&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=vijirohith64&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-viji&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vijirohith64&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 <br/>
