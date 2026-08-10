@@ -115,12 +115,12 @@ rohith@dev:~$ _
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijirohith64&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vijirohith64&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=vijirohith64&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijirohith64&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vijirohith64&layout=compact&theme=radical&hide_border=true" width="50%" />
 </p>
 
 <br/>
