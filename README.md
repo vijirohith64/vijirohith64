@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full-Stack Developer</h3>
+<p align="center"><a href="https://rohithdev.vercel.app/" target="_blank"><b>🌐 View Portfolio</b></a></p>
 
 <br/>
 
@@ -11,6 +12,9 @@
 
 <br/><br/>
 
+<a href="https://rohithdev.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.instagram.com/rohith_exe/">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -124,6 +128,9 @@ rohith@dev:~$ _
 ## 📫 Connect with me
 
 <p align="center">
+  <a href="https://rohithdev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/rohith_exe/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
